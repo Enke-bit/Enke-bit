@@ -30,7 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enke-bit&show_icons=true&locale=en" alt="enke-bit" /></p>
 </div>
 
-<div center="center">
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enke-bit&" alt="enke-bit" /></p>
 </div>
 
