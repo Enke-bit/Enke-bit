@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm İbrahim Püsküllü</h1>
 <h3 align="center">I work in the field of machine learning, deep learning and data science. I live in Turkey.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enke-bit&label=Profile%20views&color=0e75b6&style=flat" alt="enke-bit" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=enke-bit&label=Profile%20views&color=0e75b6&style=flat" alt="enke-bit" /> </p>
 
 - 🌱 I’m currently learning **I'm learning Generative AI**
 
