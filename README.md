@@ -1,7 +1,7 @@
  [![MasterHead](https://img-s1.onedio.com/id-59f1f51d23f1cfa80ee0978b/rev-0/w-1200/h-675/f-jpg/s-eaf60051835fb22dd590a551d368e7743f946354.jpg)
 
 <h1 align="center">Hi 👋, I'm İbrahim Püsküllü</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Ai developer from Turkey</h3>
 
 - 🌱 I’m currently learning **python and libraries. I am also learning to use CSS3 and Javascript more effectively.**
 
