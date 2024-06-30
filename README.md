@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm İbrahim Püsküllü</h1>
+<h1 align="center">Hi 👋, I'm İbrahim Püsküllü </h1>
 <h3 align="center">I work in the field of machine learning, deep learning and data science. I live in Türkiye.😎</h3>
 
 <p align="center">
@@ -16,6 +16,8 @@
 - 📫 How to reach me **ibrahimpuskullu44@gmail.com**
 
 - ⚡ Fun fact **I always want to learn and improve.**
+
+- 🤖 for a time it was good
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
