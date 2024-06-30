@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **I always want to learn and improve.**
 
-- 🤖 for a time it was good
+- 🤖 For a time it was good
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
